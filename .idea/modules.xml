@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../kashikoiGit/.idea/Kashikoi.iml" filepath="$PROJECT_DIR$/../kashikoiGit/.idea/Kashikoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Landing.iml" filepath="$PROJECT_DIR$/.idea/Landing.iml" />
+      <module fileurl="file://D:/Projetos Site/Landing_page_LV/.idea/Landing_page_LV.iml" filepath="D:/Projetos Site/Landing_page_LV/.idea/Landing_page_LV.iml" />
+    </modules>
+  </component>
+</project>
