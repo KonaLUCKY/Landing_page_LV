@@ -11,7 +11,7 @@
 .fontNav {
     font-family: 'Stencil';
     font-size: 30px;
-    color: #f1f76f;
+    color: #e0de48;
     text-decoration: none;
     padding: 0.5rem 1rem;
 }
@@ -59,6 +59,13 @@
 
 .bottomTextSobre {
     top: 445px;
+}
+
+.rigthImageSobre {
+
+    position: absolute;
+    top: 210px;
+    right: 100px;
 }
 
 .textPortifolio {
