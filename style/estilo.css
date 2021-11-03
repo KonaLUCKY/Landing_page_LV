@@ -9,14 +9,19 @@
 }
 
 .fontNav {
-    font-family: 'Roboto';
-    font-size: 35px;
+    font-family: 'Stencil';
+    font-size: 30px;
     color: #f1f76f;
     text-decoration: none;
     padding: 0.5rem 1rem;
 }
+
 .fontNav:hover, .fontNav:focus {
     color: #f0f0f0;
+}
+
+.git:hover {
+    background-image: url('/images/icones/github_hover.png');
 }
 
 .espacamento {
@@ -28,36 +33,69 @@
     height: 135px;
 }
 
-.container {
-
-    position: relative;
-}
-
 .sobre {
-
-    width: 2160px;
+    width: 1980px;
     height: 700px;
-
 }
 
 
 .textSobre {
-
     position: absolute;
-    top: 200px;
     left: 50px;
-    font-size: 35px;
+    font-size: 27px;
     font-family: 'Roboto';
     font-weight: bold;
     color: #e0de48
 
 }
 
+.topTextSobre {
+    top: 350px;
+}
+
+.middleTextSobre {
+    top: 420px;
+}
+
+.bottomTextSobre {
+    top: 445px;
+}
+
+.textPortifolio {
+
+    text-align: center;
+    font-family: 'Roboto';
+    color: #0f4db8
+
+}
+.logoPortifolio {
+    width: 200px;
+    height: 100px;
+}
+
+.portifolio img {
+    width: 255px;
+    height: 300px;
+    float: left;
+
+}
+
+.container {
+
+    position: relative;
+}
+
 .contato {
 
-    height: 350px;
+    height: 250px;
     background-color: #545763;
+    text-align: center;
+}
 
+.textContato {
+    font-family: 'Roboto';
+    color: #e0de48;
+    padding-top: 5px;
 }
 
 html {
